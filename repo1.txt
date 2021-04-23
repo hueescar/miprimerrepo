@@ -1,1 +1,2 @@
 creo archivo1
+añado nuevo dato
